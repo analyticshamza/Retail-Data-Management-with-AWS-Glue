@@ -1,4 +1,4 @@
-# Retail Data Management with AWS Glue
+# 🛒🛍️✨Retail Data Management with AWS Glue
 
 This project showcases my skills in building a complete ETL pipeline using **AWS Glue** and **Amazon S3** to process, clean, and analyze retail data. It demonstrates my ability to work with cloud-based data workflows and deliver analytical insights from raw datasets.
 
