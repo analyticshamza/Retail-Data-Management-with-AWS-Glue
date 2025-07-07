@@ -62,14 +62,11 @@ You can find all key screenshots in the project submission, including:
 
 | Step                     | Screenshot Description                            |
 | ------------------------ | ------------------------------------------------- |
-| S3 Bucket Setup          | Buckets and uploaded CSV files                    |
-| Classifier Configuration | CSV classifier setup for transactions and product |
-| Crawler Run Status       | Crawler creation and successful table generation  |
-| Visual ETL Canvas        | Full layout of the ETL job with connected nodes   |
-| Join Node Settings       | Join keys selected on `Product ID`                |
-| Regex Extractor Settings | Regex used to clean `Sales` column                |
-| Aggregate Settings       | Grouping and average aggregation on NetSales      |
-| S3 Select Query          | Output query result confirming correct ETL flow   |
+| Visual ETL Canvas        | Full layout of the ETL job with connected nodes ![image](https://github.com/user-attachments/assets/21b4856d-9466-4676-8038-113a6fa9a235)|
+| Join Node Settings       | Join keys selected on `Product ID` ![image](https://github.com/user-attachments/assets/166ab7b4-31a5-4387-a041-9badbed1df04)|
+| Regex Extractor Settings | Regex used to clean `Sales` column ![image](https://github.com/user-attachments/assets/1bc1738a-ed2f-49df-ae42-f6691f88a6e0)|
+| Aggregate Settings       | Grouping and average aggregation on NetSales ![image](https://github.com/user-attachments/assets/419def03-0d3a-4147-b520-f2f5713a9a67)|
+| S3 Select Query          | Output query result confirming correct ETL flow ![image](https://github.com/user-attachments/assets/f615efea-a8c5-40b0-9d35-c14f529c143e)|
 
 ## 📄 Files Included
 
